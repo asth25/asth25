@@ -1,4 +1,5 @@
 <div align="center">
+
 # Hi 👋, I'm Aastha
 
 ### Full-Stack Developer in progress 🌱
@@ -9,8 +10,9 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 
 ☕ `code • learn • build • repeat`
 
-✦ ───────────────────── ✦
 </div>
+
+---
 
 ## 🌱 Currently Learning
 
@@ -71,9 +73,9 @@ Full-Stack Development 🚀
 
 Every project, every bug, and every new concept is part of the journey.
 
-> ☕ *Still learning. Still building. Still curious.*
+> ✦ *Still learning. Still building. Still curious.*
 
-✦ ───────────────────── ✦
+---
 
 <div align="center">
 
@@ -92,10 +94,6 @@ Every project, every bug, and every new concept is part of the journey.
 <div align="center">
 
 [💼 LinkedIn](https://www.linkedin.com/in/aastha-dabla/) · [🌐 Portfolio](https://my-final-project-portfolio.netlify.app/)
-
-</div>
-
-<div align="center">
 
 ☕ *Thanks for stopping by — see you in the next commit.*
 
