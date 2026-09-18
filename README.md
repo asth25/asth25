@@ -1,3 +1,4 @@
+<div align="center">
 # Hi 👋, I'm Aastha
 
 ### Full-Stack Developer in progress 🌱
@@ -9,6 +10,7 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 ☕ `code • learn • build • repeat`
 
 ✦ ───────────────────── ✦
+</div>
 
 ## 🌱 Currently Learning
 
