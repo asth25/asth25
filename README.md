@@ -12,6 +12,10 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 
 </div>
 
+<p align="center">
+  <img src="./cozy-coding.gif" width="300">
+</p>
+
 ---
 
 ## 🌱 Currently Learning
