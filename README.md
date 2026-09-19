@@ -10,11 +10,11 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 
 ☕ `code • learn • build • repeat`
 
-</div>
-
 <p align="center">
   <img src="./cozy-coding.gif" width="300">
 </p>
+
+</div>
 
 ---
 
