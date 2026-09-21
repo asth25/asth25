@@ -11,7 +11,7 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 ☕ `code • learn • build • repeat`
 
 <p align="center">
-  <img src="./cozy-coding.gif" width="300">
+  <img src="https://raw.githubusercontent.com/asth25/asth25/main/cozy-coding.gif" width="300">
 </p>
 
 </div>
