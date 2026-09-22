@@ -28,7 +28,7 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 > ✦ Learning something new, one line of code at a time.
 
 ---
-<div align="right">
+
 ## 💻 Tech Stack
 
 **Frontend**
@@ -41,7 +41,6 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 `Node.js` · `Express.js` · `Databases`
 
 ☕ *Turning ideas into interfaces, one project at a time.*
-</div>
 ---
 
 ## 🚀 Featured Projects
