@@ -11,7 +11,7 @@ Currently learning **JavaScript** and gradually expanding my skills toward full-
 ☕ `code • learn • build • repeat`
 
 <p align="center">
-  <img src="./download(11).jpg" width="300">
+  <img src="./download (11).jpg" width="300">
 </p>
 
 </div>
