@@ -71,7 +71,7 @@ Advanced JavaScript
     ↓
 Backend Development
     ↓
-Full-Stack Development 🚀
+Full-Stack Development 
 ```
 
 Every project, every bug, and every new concept is part of the journey.
